@@ -4,6 +4,7 @@ public class DemoController {
 
 	
 	public void show() {
-		System.out.println("这是controller方法");
+		System.out.println("这是controller方法   对没错");
 	}
+	
 }
