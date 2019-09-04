@@ -4,11 +4,11 @@ public class DemoController {
 
 	
 	public void show() {
-		System.out.println("这是controller方法   对没错");
+		System.out.println("杩欐槸controller");
 	}
 	
 	public void show2() {
-		System.out.println("这是1705D提交01");
+		System.out.println("demo娴嬭瘯鎿嶄綔");
 	}
 	
 }
